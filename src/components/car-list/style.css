@@ -1,0 +1,11 @@
+.car-name-container {
+    /* margin-left: 48px; */
+    display: flex;
+}
+
+.car-name-left-container {
+    margin-left: 48px;
+}
+.prize-color {
+    color: #E53935;
+}
